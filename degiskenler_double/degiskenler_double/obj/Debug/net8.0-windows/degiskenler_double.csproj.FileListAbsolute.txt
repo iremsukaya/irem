@@ -1,0 +1,16 @@
+C:\Users\their\OneDrive\Desktop\udemy\degiskenler_double\degiskenler_double\bin\Debug\net8.0-windows\degiskenler_double.exe
+C:\Users\their\OneDrive\Desktop\udemy\degiskenler_double\degiskenler_double\bin\Debug\net8.0-windows\degiskenler_double.deps.json
+C:\Users\their\OneDrive\Desktop\udemy\degiskenler_double\degiskenler_double\bin\Debug\net8.0-windows\degiskenler_double.runtimeconfig.json
+C:\Users\their\OneDrive\Desktop\udemy\degiskenler_double\degiskenler_double\bin\Debug\net8.0-windows\degiskenler_double.dll
+C:\Users\their\OneDrive\Desktop\udemy\degiskenler_double\degiskenler_double\bin\Debug\net8.0-windows\degiskenler_double.pdb
+C:\Users\their\OneDrive\Desktop\udemy\degiskenler_double\degiskenler_double\obj\Debug\net8.0-windows\degiskenler_double.Form1.resources
+C:\Users\their\OneDrive\Desktop\udemy\degiskenler_double\degiskenler_double\obj\Debug\net8.0-windows\degiskenler_double.csproj.GenerateResource.cache
+C:\Users\their\OneDrive\Desktop\udemy\degiskenler_double\degiskenler_double\obj\Debug\net8.0-windows\degiskenler_double.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\their\OneDrive\Desktop\udemy\degiskenler_double\degiskenler_double\obj\Debug\net8.0-windows\degiskenler_double.AssemblyInfoInputs.cache
+C:\Users\their\OneDrive\Desktop\udemy\degiskenler_double\degiskenler_double\obj\Debug\net8.0-windows\degiskenler_double.AssemblyInfo.cs
+C:\Users\their\OneDrive\Desktop\udemy\degiskenler_double\degiskenler_double\obj\Debug\net8.0-windows\degiskenler_double.csproj.CoreCompileInputs.cache
+C:\Users\their\OneDrive\Desktop\udemy\degiskenler_double\degiskenler_double\obj\Debug\net8.0-windows\degiskenler_double.dll
+C:\Users\their\OneDrive\Desktop\udemy\degiskenler_double\degiskenler_double\obj\Debug\net8.0-windows\refint\degiskenler_double.dll
+C:\Users\their\OneDrive\Desktop\udemy\degiskenler_double\degiskenler_double\obj\Debug\net8.0-windows\degiskenler_double.pdb
+C:\Users\their\OneDrive\Desktop\udemy\degiskenler_double\degiskenler_double\obj\Debug\net8.0-windows\degiskenler_double.genruntimeconfig.cache
+C:\Users\their\OneDrive\Desktop\udemy\degiskenler_double\degiskenler_double\obj\Debug\net8.0-windows\ref\degiskenler_double.dll

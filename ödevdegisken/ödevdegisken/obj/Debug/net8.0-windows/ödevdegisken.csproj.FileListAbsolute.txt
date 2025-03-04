@@ -1,0 +1,16 @@
+C:\Users\their\OneDrive\Desktop\udemy\ödevdegisken\ödevdegisken\obj\Debug\net8.0-windows\ödevdegisken.Form1.resources
+C:\Users\their\OneDrive\Desktop\udemy\ödevdegisken\ödevdegisken\obj\Debug\net8.0-windows\ödevdegisken.csproj.GenerateResource.cache
+C:\Users\their\OneDrive\Desktop\udemy\ödevdegisken\ödevdegisken\obj\Debug\net8.0-windows\ödevdegisken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\their\OneDrive\Desktop\udemy\ödevdegisken\ödevdegisken\obj\Debug\net8.0-windows\ödevdegisken.AssemblyInfoInputs.cache
+C:\Users\their\OneDrive\Desktop\udemy\ödevdegisken\ödevdegisken\obj\Debug\net8.0-windows\ödevdegisken.AssemblyInfo.cs
+C:\Users\their\OneDrive\Desktop\udemy\ödevdegisken\ödevdegisken\obj\Debug\net8.0-windows\ödevdegisken.csproj.CoreCompileInputs.cache
+C:\Users\their\OneDrive\Desktop\udemy\ödevdegisken\ödevdegisken\bin\Debug\net8.0-windows\ödevdegisken.exe
+C:\Users\their\OneDrive\Desktop\udemy\ödevdegisken\ödevdegisken\bin\Debug\net8.0-windows\ödevdegisken.deps.json
+C:\Users\their\OneDrive\Desktop\udemy\ödevdegisken\ödevdegisken\bin\Debug\net8.0-windows\ödevdegisken.runtimeconfig.json
+C:\Users\their\OneDrive\Desktop\udemy\ödevdegisken\ödevdegisken\bin\Debug\net8.0-windows\ödevdegisken.dll
+C:\Users\their\OneDrive\Desktop\udemy\ödevdegisken\ödevdegisken\bin\Debug\net8.0-windows\ödevdegisken.pdb
+C:\Users\their\OneDrive\Desktop\udemy\ödevdegisken\ödevdegisken\obj\Debug\net8.0-windows\ödevdegisken.dll
+C:\Users\their\OneDrive\Desktop\udemy\ödevdegisken\ödevdegisken\obj\Debug\net8.0-windows\refint\ödevdegisken.dll
+C:\Users\their\OneDrive\Desktop\udemy\ödevdegisken\ödevdegisken\obj\Debug\net8.0-windows\ödevdegisken.pdb
+C:\Users\their\OneDrive\Desktop\udemy\ödevdegisken\ödevdegisken\obj\Debug\net8.0-windows\ödevdegisken.genruntimeconfig.cache
+C:\Users\their\OneDrive\Desktop\udemy\ödevdegisken\ödevdegisken\obj\Debug\net8.0-windows\ref\ödevdegisken.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "arac_kullanimlari/1.0.0": {
+        "runtime": {
+          "arac_kullanimlari.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "arac_kullanimlari/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

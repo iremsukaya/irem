@@ -1,0 +1,16 @@
+C:\Users\their\OneDrive\Desktop\udemy\degisken_int\degisken_int\bin\Debug\net8.0-windows\degisken_int.exe
+C:\Users\their\OneDrive\Desktop\udemy\degisken_int\degisken_int\bin\Debug\net8.0-windows\degisken_int.deps.json
+C:\Users\their\OneDrive\Desktop\udemy\degisken_int\degisken_int\bin\Debug\net8.0-windows\degisken_int.runtimeconfig.json
+C:\Users\their\OneDrive\Desktop\udemy\degisken_int\degisken_int\bin\Debug\net8.0-windows\degisken_int.dll
+C:\Users\their\OneDrive\Desktop\udemy\degisken_int\degisken_int\bin\Debug\net8.0-windows\degisken_int.pdb
+C:\Users\their\OneDrive\Desktop\udemy\degisken_int\degisken_int\obj\Debug\net8.0-windows\degisken_int.Form1.resources
+C:\Users\their\OneDrive\Desktop\udemy\degisken_int\degisken_int\obj\Debug\net8.0-windows\degisken_int.csproj.GenerateResource.cache
+C:\Users\their\OneDrive\Desktop\udemy\degisken_int\degisken_int\obj\Debug\net8.0-windows\degisken_int.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\their\OneDrive\Desktop\udemy\degisken_int\degisken_int\obj\Debug\net8.0-windows\degisken_int.AssemblyInfoInputs.cache
+C:\Users\their\OneDrive\Desktop\udemy\degisken_int\degisken_int\obj\Debug\net8.0-windows\degisken_int.AssemblyInfo.cs
+C:\Users\their\OneDrive\Desktop\udemy\degisken_int\degisken_int\obj\Debug\net8.0-windows\degisken_int.csproj.CoreCompileInputs.cache
+C:\Users\their\OneDrive\Desktop\udemy\degisken_int\degisken_int\obj\Debug\net8.0-windows\degisken_int.dll
+C:\Users\their\OneDrive\Desktop\udemy\degisken_int\degisken_int\obj\Debug\net8.0-windows\refint\degisken_int.dll
+C:\Users\their\OneDrive\Desktop\udemy\degisken_int\degisken_int\obj\Debug\net8.0-windows\degisken_int.pdb
+C:\Users\their\OneDrive\Desktop\udemy\degisken_int\degisken_int\obj\Debug\net8.0-windows\degisken_int.genruntimeconfig.cache
+C:\Users\their\OneDrive\Desktop\udemy\degisken_int\degisken_int\obj\Debug\net8.0-windows\ref\degisken_int.dll

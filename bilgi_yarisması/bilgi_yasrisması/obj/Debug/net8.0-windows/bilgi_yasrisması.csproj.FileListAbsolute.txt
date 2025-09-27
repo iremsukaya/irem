@@ -1,0 +1,17 @@
+C:\Users\their\OneDrive\Desktop\udemy\bilgi_yasrisması\bilgi_yasrisması\bin\Debug\net8.0-windows\bilgi_yasrisması.exe
+C:\Users\their\OneDrive\Desktop\udemy\bilgi_yasrisması\bilgi_yasrisması\bin\Debug\net8.0-windows\bilgi_yasrisması.deps.json
+C:\Users\their\OneDrive\Desktop\udemy\bilgi_yasrisması\bilgi_yasrisması\bin\Debug\net8.0-windows\bilgi_yasrisması.runtimeconfig.json
+C:\Users\their\OneDrive\Desktop\udemy\bilgi_yasrisması\bilgi_yasrisması\bin\Debug\net8.0-windows\bilgi_yasrisması.dll
+C:\Users\their\OneDrive\Desktop\udemy\bilgi_yasrisması\bilgi_yasrisması\bin\Debug\net8.0-windows\bilgi_yasrisması.pdb
+C:\Users\their\OneDrive\Desktop\udemy\bilgi_yasrisması\bilgi_yasrisması\obj\Debug\net8.0-windows\bilgi_yasrisması.Form1.resources
+C:\Users\their\OneDrive\Desktop\udemy\bilgi_yasrisması\bilgi_yasrisması\obj\Debug\net8.0-windows\bilgi_yasrisması.Properties.Resources.resources
+C:\Users\their\OneDrive\Desktop\udemy\bilgi_yasrisması\bilgi_yasrisması\obj\Debug\net8.0-windows\bilgi_yasrisması.csproj.GenerateResource.cache
+C:\Users\their\OneDrive\Desktop\udemy\bilgi_yasrisması\bilgi_yasrisması\obj\Debug\net8.0-windows\bilgi_yasrisması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\their\OneDrive\Desktop\udemy\bilgi_yasrisması\bilgi_yasrisması\obj\Debug\net8.0-windows\bilgi_yasrisması.AssemblyInfoInputs.cache
+C:\Users\their\OneDrive\Desktop\udemy\bilgi_yasrisması\bilgi_yasrisması\obj\Debug\net8.0-windows\bilgi_yasrisması.AssemblyInfo.cs
+C:\Users\their\OneDrive\Desktop\udemy\bilgi_yasrisması\bilgi_yasrisması\obj\Debug\net8.0-windows\bilgi_yasrisması.csproj.CoreCompileInputs.cache
+C:\Users\their\OneDrive\Desktop\udemy\bilgi_yasrisması\bilgi_yasrisması\obj\Debug\net8.0-windows\bilgi_yasrisması.dll
+C:\Users\their\OneDrive\Desktop\udemy\bilgi_yasrisması\bilgi_yasrisması\obj\Debug\net8.0-windows\refint\bilgi_yasrisması.dll
+C:\Users\their\OneDrive\Desktop\udemy\bilgi_yasrisması\bilgi_yasrisması\obj\Debug\net8.0-windows\bilgi_yasrisması.pdb
+C:\Users\their\OneDrive\Desktop\udemy\bilgi_yasrisması\bilgi_yasrisması\obj\Debug\net8.0-windows\bilgi_yasrisması.genruntimeconfig.cache
+C:\Users\their\OneDrive\Desktop\udemy\bilgi_yasrisması\bilgi_yasrisması\obj\Debug\net8.0-windows\ref\bilgi_yasrisması.dll

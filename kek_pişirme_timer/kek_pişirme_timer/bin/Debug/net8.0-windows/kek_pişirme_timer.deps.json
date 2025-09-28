@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "kek_pişirme_timer/1.0.0": {
+        "runtime": {
+          "kek_pişirme_timer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kek_pişirme_timer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
